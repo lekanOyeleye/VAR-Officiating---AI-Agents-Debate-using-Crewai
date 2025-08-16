@@ -166,7 +166,7 @@ For questions about this specific VAR Officiating project implementation:
 
 - **GitHub**: [@lekanOyeleye](https://github.com/lekanOyeleye)
 - **Email**: [olalekanoyeleye@yahoo.com](mailto:olalekanoyeleye@yahoo.com)
-- **LinkedIn**: [https://www.linkedin.com/in/olalekanoyeleye/](https://www.linkedin.com/in/olalekanoyeleye/)
+- **LinkedIn**: [OlalekanOyeleye](https://www.linkedin.com/in/olalekanoyeleye/)
 
 For questions about the CrewAI framework itself, please refer to the support section above.
 
