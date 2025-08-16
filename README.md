@@ -159,3 +159,19 @@ Critical Decision Factor:
 Why This Matters:
 
 The judge prioritized foundational integrity over operational efficiency, determining that communication and contextual issues can be addressed through training and protocols, while bias concerns are inherently harder to resolve within integrated referee teams.
+
+## 📧 Contact
+
+For questions about this specific VAR Officiating project implementation:
+
+- **GitHub**: [@lekanOyeleye](https://github.com/lekanOyeleye)
+- **Email**: [olalekanoyeleye@yahoo.com](mailto:olalekanoyeleye@yahoo.com)
+- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/olalekanoyeleye/)](https://www.linkedin.com/in/olalekanoyeleye/)
+
+For questions about the CrewAI framework itself, please refer to the support section above.
+
+## 📄 License
+
+This project is built using [CrewAI](https://github.com/joaomdmoura/crewai), which is licensed under the MIT License. 
+
+Please refer to CrewAI's licensing terms for the underlying framework. This project's custom implementation and configurations are provided as-is for educational and research purposes.
