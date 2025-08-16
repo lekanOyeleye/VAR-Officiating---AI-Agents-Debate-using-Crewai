@@ -36,7 +36,7 @@ Leverages Premier League-specific expertise
 📁 Repository Structure
 
 ```
-var_officiating/
+scr/var_officiating/
 ├── config/
 │   ├── agents.yaml              # Agent configurations (roles, goals, backstories, models)
 │   └── tasks.yaml               # Task definitions for debate sequence
